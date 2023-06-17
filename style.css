@@ -1,0 +1,456 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Playfair', serif;
+    font-family: 'Playfair Display', serif;
+}
+
+ body {
+    display:flex;
+    flex-direction: column;
+
+ }
+
+ img {
+    width: 20px;
+    height: 20px;
+ }
+
+
+.wow {
+    background-color: rgba(165, 206, 253, 0.281);
+    padding: 20px 25px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    
+}
+
+
+
+.wow-a {
+    background-color: #f8fcff;
+    border: 1px solid rgba(0, 0, 255, 0.068);
+    box-shadow: 1px 1px 10px 2px rgba(0, 0, 255, 0.068);
+    padding: 10px 100px 200px 200px;
+    width: 90%;
+    display: flex;
+    border-radius: 10px;
+    flex-direction: row;
+    text-align: center;
+    margin: 2em 5em;
+    margin-bottom: 2em;
+
+}
+
+.wow-a .wow-ab {
+    margin-left: -50em;
+}
+.wow-b {
+background-color: #f8fcff;
+    border: 1px solid rgba(0, 0, 255, 0.089);
+    box-shadow: 1px 1px 10px 2px rgba(0, 0, 255, 0.068);
+    padding: 200px 200px;
+    width: 90%;
+    display: flex;
+    border-radius: 10px;
+    flex-direction: row;
+    text-align: center;
+    margin: 2em 5em;
+    margin-bottom: 2em;
+}
+.wow-c {
+background-color: #f8fcff; 
+    border: 1px solid rgba(0, 0, 255, 0.082);
+    box-shadow: 1px 1px 10px 2px rgba(0, 0, 255, 0.068);
+    padding: 200px 200px;
+    width: 90%;
+    display: flex;
+    border-radius: 10px;
+    flex-direction: row;
+    text-align: center;
+    margin: 2em 5em;
+    margin-bottom: 2em;
+}
+.wow-d {
+background-color: #f8fcff;
+    border-radius: 10px; 
+    border: 1px solid rgba(0, 0, 255, 0.075);
+    box-shadow: 1px 1px 10px 2px rgba(0, 0, 255, 0.068);
+    padding: 200px 200px;
+    width: 90%;
+    display: flex;
+    border-radius: 10px;
+    flex-direction: row;
+    text-align: center;
+    margin: 2em 5em;
+    margin-bottom: 2em;
+}
+.wow-e {
+   background-color: #f8fcff;
+     border-radius: 10px;
+     border: 1px solid rgba(0, 0, 255, 0.068);
+     box-shadow: 1px 
+    1px 10px 2px rgba(0, 0, 255, 0.068);
+    padding: 20px 50px;
+    width: 35%;
+    display: inline-flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    margin: 4% 32% ;
+    transform: translateY(107px);
+    
+}
+
+.you-aa , .you-ab {
+  transform: translateX(20px) translateY(70px);
+
+}
+
+.wow-aa {
+    display: flex;
+    flex-direction: row;
+    width: 200em;
+    height: 30px;
+
+}
+
+.aaa {
+    transform: translateX(-50px);
+}
+.aab {
+    transform: translateX(-40px);
+}
+.abb {
+   font-size: 15px;
+}
+
+.wow-ab {
+    margin: 5em 0; 
+    
+}
+
+.wow-ab {
+    transform: translateX(40rem) translateY(5rem);
+}
+
+.wow-ab h1 {
+    font-weight: 700;
+    letter-spacing: 1px; 
+    font-size: 25px;
+}
+
+
+.wow-ac , .wow-ad {
+    transform: translateX(50rem) translateY(100px);
+}
+.wow-ac img {
+    width: 350px;
+    height: 350px;
+}
+.wow-ad img {
+    width: 230px;
+    height: 180px;
+}
+
+.wow-aab {
+    display: flex;
+    list-style-type: none;
+    align-items: center;
+}
+
+.wow-aab a {
+    padding: 0 50px;
+    text-decoration: none;
+    color: #3a3a3a;
+    display: inline-block;
+}
+
+
+.wow-b img , .wow-c img , .wow-d img {
+    width: 200px;
+    height: 200px;
+}
+
+.zow { 
+    color: #ffffff;
+    background-color: #082631;
+    padding: 20px 25px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+ }
+
+ .pow , .bow {
+ padding: 20px 25px;
+ width: 100%;
+ display: inline-flex;
+ flex-direction: column;
+ text-align: center;
+ margin: 20px 30px;
+}
+
+.pow-a , .pow-b , .pow-c , .pow-d {
+    display: flex;
+    font-size: 15px;
+    font-weight: lighter;
+    flex-direction: row;
+    text-align: center;
+    margin: 10px 5px;
+}
+
+.pow-a p {
+    font-size: 30px;
+}
+.pow-a div , .pow-c div , .pow-d div {
+    margin: 0 6px;
+}
+.pow-b div {
+    margin: 0 1.6px;
+} 
+.pow-a img {
+    width: 27px;
+    height: 27px;
+}
+
+.bow-a , .bow-b , .bow-c , .bow-d {
+    font-size: 15px;
+    font-weight: lighter;
+    display: inline-flex;
+    flex-direction: row;
+    text-align: center;
+}
+.bow-ac {
+    display: inline-flex;
+    flex-direction: row;
+    text-align: center;
+    margin: 10px 5px 0 130px;
+
+}
+.bow-ac div {
+    margin: 0 3px;
+}
+.bow-a p , .bow-b p , .bow-c p {
+    margin: 20px 5px 0 40px;
+}
+ .bow-d {
+    font-size: 8px;
+    margin: 60px 2px 0 360px;
+ }
+.bow-c p {
+    margin: 25px 60px;
+ }
+.bow-a p {
+    margin: 10px 30px;
+}
+.bow-a p:first-child {
+    margin: 10px 39px;
+}
+.bow-c p:first-child {
+    margin: 25px 39px;
+}
+
+.wow-e a {
+    background-color: rgba(231, 12, 103, 0.692);
+    color: #ffffff;
+    border: 1px solid rgba(231, 12, 103, 0.096);
+    padding: 20px 50px;
+    border-radius: 50px;
+    font-size: 12px;
+    text-decoration: none;
+    display: inline-block;
+    align-content: center;
+    /* text-align: center; */
+    margin: 10px;
+    transition: 0.5s 0.3s;
+    box-shadow: 1px 3px 10px 2px rgba(231, 12, 103, 0.651);
+}
+
+.wow-e a:hover {
+    background-color: rgba(231, 12, 103, 0.904);
+    color: #f7e9e9;
+    box-shadow: 1px 3px 10px 3px rgba(231, 12, 103, 0.897);
+    transform: translateY(-3px);
+}
+.wow-e h3 {
+    margin: 20px 0;
+    line-height: 2px;
+}
+
+.aab {
+    font-size: 40px;
+    margin-top: 20px;
+}
+
+.aaa img {
+    width: 40px;
+    height: 40px;
+    margin-top: 20px;
+}
+
+.wow-abc {
+    margin: 0 10rem;
+}
+.wow-abc a {
+    border: 1px solid black;
+    border-radius: 50px;
+    color: #fcf6f6;
+    background-color: rgba(231, 12, 103, 0.692);
+    border: 1px solid rgba(231, 12, 103, 0.096);
+    display: flex;
+    flex-direction: column;
+    margin: 15px 20rem;
+    width: 13rem;
+    height: 60px;
+    text-decoration: none;
+    padding: 20px 10px;
+    font-size: 13px;
+    text-align: center;
+    transition: 0.5s 0.3s;
+    box-shadow: 1px 3px 10px 2px rgba(231, 12, 103, 0.651);
+}
+
+.wow-abc a:hover {
+    background-color: rgba(231, 12, 103, 0.904);
+    color: #f7e9e9;
+    box-shadow: 1px 3px 10px 3px rgba(231, 12, 103, 0.897);
+    transform: translateY(-3px);
+}
+
+
+@media (max-width:768px) {
+    .wow-ac img {
+        width: 200px;
+        height: 200px;
+        transform: translateX(-9rem) translateY(3rem);
+    }
+    .wow-ad img {
+        width: 130px;
+        height: 150px;
+        transform: translateX(-9.5rem) translateY(3rem);
+    }
+    .wow-ab h1 {
+        font-size: 18px;
+    }
+    .abb {
+        font-size: 12px;
+    }
+    .wow-ab h1,
+    .abb {
+        transform: translateX(-4rem);
+    }
+    .wow-abc {
+        /* margin-left: 10px; */
+    }
+    
+    .wow-abc a {
+        width: 10rem;
+        height: 40px;
+        text-align: center;
+        padding: 12px 5px;
+        font-size: 9px;
+    }
+
+    .aaa img {
+        width: 30px;
+        height: 30px;
+        margin-top: 20px;
+        margin-left: -1rem;
+    }
+    .aab {
+        font-size: 28px;
+        margin-top: 20px;
+        margin-left: -5px;
+    }
+
+    .wow-b img , .wow-c img , .wow-d img {
+        width: 80px;
+        height: 90px;
+    }
+    .wow-b h2 , .wow-c h2 , .wow-d h2 {
+        font-size: 18px;
+
+    }
+    .wow-b p , .wow-c p , .wow-d p {
+        font-size: 12px;
+    }
+    .wow-e h3 {
+        font-size: 8px;
+    }
+   
+    .wow-e a {
+        width: 10rem;
+        height: 40px;
+        text-align: center;
+        padding: 12px 5px;
+        font-size: 9px;
+    }
+    .bow-ac {
+        margin-left: 1.8rem;
+    }
+    .bow-d {
+        margin-left: 10rem;
+    }
+    .wow-e {
+        background-color: #f8fcff;
+        border-radius: 10px;
+        border: 1px solid rgba(0, 0, 255, 0.068);
+        box-shadow: 1px 
+       1px 10px 2px rgba(0, 0, 255, 0.068);
+       padding: 20px 50px;
+       width: 50%;
+       display: inline-flex;
+       flex-direction: column;
+       justify-content: center;
+       text-align: center;
+       margin: 4% 28%;
+    }
+    .wow-a,
+    .wow-b,
+    .wow-c,
+    .wow-d {
+        width: 100%;
+        margin-left: 0.1rem;
+    }
+}
+
+@media  (max-width:1024px) {
+    .wow-ac img {
+        width: 300px;
+        height: 300px;
+        transform: translateX(-9rem) translateY(3rem);
+    }
+    .wow-ad img {
+        width: 150px;
+        height: 180px;
+        transform: translateX(-9.5rem) translateY(3rem);
+    }
+    .wow-b img , .wow-c img , .wow-d img {
+        width: 80px;
+        height: 90px;
+    }
+    .wow-e {
+        width: 40%;
+    }
+    .bow-d {
+        margin-left: 10rem;
+    }
+    .wow-a,
+    .wow-b,
+    .wow-c,
+    .wow-d {
+        width: 100%;
+        margin-left: 0.1rem;
+    }
+
+
+    
+}
