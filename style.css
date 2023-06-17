@@ -347,9 +347,6 @@ background-color: #f8fcff;
     .abb {
         transform: translateX(-4rem);
     }
-    .wow-abc {
-        /* margin-left: 10px; */
-    }
     
     .wow-abc a {
         width: 10rem;
@@ -451,6 +448,5 @@ background-color: #f8fcff;
         margin-left: 0.1rem;
     }
 
-
-    
+ 
 }
